@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-sripad&label=Profile%20views&color=0e75b6&style=flat" alt="j-sripad" /> </p>
 
-- 🔭 I’m currently working as a **Research Assistant with Computer Vision Lab at Indiana University**
+- 🔭 I’m currently working as a **AI Research Engineer @ Whiterabbit.ai**
 
 - 🌱 I’m currently learning **Transformers and MLops**
 
