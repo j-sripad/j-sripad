@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working as a **AI Research Engineer @ Whiterabbit.ai**
 
-- 🌱 I’m currently learning **Transformers and MLops**
-
 - 👯 I’m looking to collaborate on **Machine Learning and Computer Vision projects**
 
 - 💬 Ask me about **Deep learning and computer vision**
